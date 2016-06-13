@@ -8,6 +8,6 @@ public class User {
 			System.out.println("003");
 			
 			System.out.println("005");
-			System.out.println("006");
+			System.out.println("007");
 	}
 }
